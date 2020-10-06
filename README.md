@@ -12,7 +12,10 @@
 
 ### App Walkthough GIF
 
-<img src="https://recordit.co/iiMgpdv4Sw/gif/notify" width=250><br>
+
+<img src="https://imgur.com/D1Qt4RO.gif" width=250 title='Video Walkthrough' alt='Video Walkthrough' /><br />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Notes
 Describe any challenges encountered while building the app.
